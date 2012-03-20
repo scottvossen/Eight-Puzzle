@@ -1,0 +1,31 @@
+c:\users\scottv\documents\visual studio 2010\Projects\EightPuzzle\EightPuzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\scottv\documents\visual studio 2010\Projects\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.Properties.Resources.resources
+c:\users\scottv\documents\visual studio 2010\Projects\EightPuzzle\EightPuzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\scottv\documents\visual studio 2010\Projects\EightPuzzle\EightPuzzle\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\scottv\documents\visual studio 2010\Projects\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe
+c:\users\scottv\documents\visual studio 2010\Projects\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.pdb
+c:\users\scottv\documents\visual studio 2010\Projects\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.exe
+c:\users\scottv\documents\visual studio 2010\Projects\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.pdb
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle Solved Init\EightPuzzle\obj\x86\Debug\EightPuzzle.exe
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle Solved Init\EightPuzzle\obj\x86\Debug\EightPuzzle.pdb
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle Solved Init\EightPuzzle\bin\Debug\EightPuzzle.exe
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle Solved Init\EightPuzzle\bin\Debug\EightPuzzle.pdb
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle Solved Init\EightPuzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle Solved Init\EightPuzzle\obj\x86\Debug\EightPuzzle.Form1.resources
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle Solved Init\EightPuzzle\obj\x86\Debug\EightPuzzle.Properties.Resources.resources
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle Solved Init\EightPuzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle Solved Init\EightPuzzle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.EightPuzzle.resources
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.About.resources
+C:\Users\ScottV\Documents\Visual Studio 2010\Projects\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.Instructions.resources
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.exe
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.pdb
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.pdb
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.About.resources
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.EightPuzzle.resources
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.Instructions.resources
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.Properties.Resources.resources
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Scotty Viscocity\Desktop\Stuff\Projects\C#\EightPuzzle\EightPuzzle\obj\x86\Debug\GenerateResource.write.1.tlog
